@@ -1,0 +1,14 @@
+.app-container {
+  background: linear-gradient(to right, #ffa200, #6eda78); 
+  height: 100vh; 
+  margin: 0; 
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  
+  display: flex;
+  flex-direction: row;
+  gap: 88px; 
+  justify-content: center;
+  align-items: center;
+}
